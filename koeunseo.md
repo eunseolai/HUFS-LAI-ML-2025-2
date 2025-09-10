@@ -1,4 +1,4 @@
-#자기소개
+**#자기소개**</br></br>
 안녕하세요! '기계학습의 이해' 강의를 수강하게 된 language&AI융합학부 24학번 고은서입니다.</br>
 저는 음악 듣기, 쉬기, 맛있는 음식 먹기를 좋아합니다.</br></br>
 
@@ -6,7 +6,7 @@
 (글이 어째 주제와 점점 멀어져가는 것 같습니다. 이해해 주세요. )</br></br>
 
 최근에 무화과를 먹었는데 정말 맛있었습니다.</br>
-<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/3ffdfd52-0c08-4cf9-88e8-f556f711d1f1" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/3ffdfd52-0c08-4cf9-88e8-f556f711d1f1" /> </br>
 따로 사진을 찍어두지 않아 한국어 위키백과에서 무화과 사진을 가져왔습니다.</br>
 무화과는 정말 맛있지만, 빨리 상하는 과일입니다.</br>
 그래서 상하기 전에 얼른 먹어치워야 합니다.</br>

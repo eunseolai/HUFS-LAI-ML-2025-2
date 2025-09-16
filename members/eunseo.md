@@ -12,4 +12,4 @@
 
 - 지난 주에 한 번 Pull Request로 제출했었는데 마크다운 형식도 전혀 지키지 않았고, TMI를 너무 많이 적은 게 부끄러워서 다시 작성하고 있습니다.
 - 이번 학기 오랜만에 금공강 만들기를 성공했습니다.
-- 지금 유튜브로 [음악](https://www.youtube.com/watch?v=TmN7VR7fKCY&list=OLAK5uy_kNhV6R5Yd3YkFmJV2tj1FX4KAVfD0Mk6s)을 들으면서 과제를 하고 있습니다.
+- 지금 유튜브로 [음악](https://www.youtube.com/watch?v=TmN7VR7fKCY&list=OLAK5uy_kNhV6R5Yd3YkFmJV2tj1FX4KAVfD0Mk6s)을 들으면서 과제를 하고 있습니다. 최근 이 가수의 곡들에 꽂혀 있는데, 마음에 드는 곡이 많았습니다. 시간이 되신다면 한 번 들어보셔도 좋을 것 같습니다.

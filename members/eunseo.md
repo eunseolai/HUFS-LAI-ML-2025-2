@@ -1,9 +1,12 @@
 # 자기소개
 
-안녕하세요. 
-
-제 홈페이지는 [https://hist0613.github.io/](https://hist0613.github.io/) 이구요, 수업 내용이나 과제, 프로젝트 진행 등에 있어서 어려움이 있다면 언제든지 제 학교 메일 ([seungtaek.choi@hufs.ac.kr](seungtaek.choi@hufs.ac.kr)) 로 연락주시기 바랍니다.
-
+안녕하세요. 저는 이번 기계학습의 이해 강의를 수강하게 된 202401717 고은서입니다.
+저의 학교 이메일 주소는 ([eunseo01717@hufs.ac.kr](eunseo01717@hufs.ac.kr)) 입니다.
+자연어 처리와 언어학에 관심이 있으나, 아직 제 지식과 경험이 많이 부족하다고 생각합니다.
+이번 학기 열심히 공부해서 더 성장하고 싶습니다.
 
 # TMI
-- 광복절에 [상하이 대한민국 임시정부 유적지](https://ko.wikipedia.org/wiki/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD_%EC%9E%84%EC%8B%9C%EC%A0%95%EB%B6%80_%EC%9C%A0%EC%A0%81%EC%A7%80_(%EC%83%81%ED%95%98%EC%9D%B4%EC%8B%9C))에 다녀와봤습니다. 
+
+- 지난 주에 한 번 Pull Request로 제출했었는데 마크다운 형식도 전혀 지키지 않았고, TMI를 너무 많이 적은 게 부끄러워서 다시 작성하고 있습니다.
+- 이번 학기 오랜만에 금공강 만들기를 성공했습니다.
+- 지금 유튜브로 [음악](https://www.youtube.com/watch?v=TmN7VR7fKCY&list=OLAK5uy_kNhV6R5Yd3YkFmJV2tj1FX4KAVfD0Mk6s)을 들으면서 과제를 하고 있습니다.
